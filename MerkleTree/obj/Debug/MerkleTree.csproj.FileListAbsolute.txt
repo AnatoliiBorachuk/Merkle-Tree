@@ -1,0 +1,7 @@
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\bin\Debug\MerkleTree.exe.config
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\bin\Debug\MerkleTree.exe
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\bin\Debug\MerkleTree.pdb
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\obj\Debug\MerkleTree.csproj.AssemblyReference.cache
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\obj\Debug\MerkleTree.csproj.CoreCompileInputs.cache
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\obj\Debug\MerkleTree.exe
+F:\Education\2 семестр\Розробка децентралізованих додатків\Lab04\MerkleTreeProgramm\MerkleTree\obj\Debug\MerkleTree.pdb
